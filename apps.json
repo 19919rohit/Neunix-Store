@@ -6,10 +6,10 @@
     "versionCode": 1,
     "category": "AI",
     "description": "AI Art Studio – Create stunning AI images and explore your creativity.",
-    "icon": "https://github.com/19919rohit/Neunix-Store/releases/download/AI/ai-art-icon.png",
+    "icon": "https://raw.githubusercontent.com/19919rohit/Neunix-Store/main/icons/ai-art-icon.png",
     "screenshots": [
-      "https://github.com/19919rohit/Neunix-Store/releases/download/AI/Screenshot.png"
+      "https://raw.githubusercontent.com/19919rohit/Neunix-Store/main/screenshots/Screenshot.png"
     ],
-    "apk": "https://github.com/19919rohit/Neunix-Store/releases/download/AI/AI_Art_Studio.apk"
+    "apk": "https://raw.githubusercontent.com/19919rohit/Neunix-Store/main/apks/AI_Art_Studio.apk"
   }
 ]
