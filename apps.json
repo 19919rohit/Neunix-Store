@@ -2,8 +2,8 @@
   {
     "name": "AI Art Studio",
     "package": "com.aiartstudio.neunix.app",
-    "version": "1.0",
-    "versionCode": 1,
+    "version": "1.2",
+    "versionCode": 2,
     "category": "AI",
     "description": "AI Art Studio – Create stunning AI images and explore your creativity.",
     "icon": "https://github.com/19919rohit/Neunix-Store/releases/download/AI/icon.png",
