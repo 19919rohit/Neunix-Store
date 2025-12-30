@@ -11,5 +11,21 @@
       "https://github.com/19919rohit/Neunix-Store/releases/download/AI/Screenshot.png"
     ],
     "apk": "https://github.com/19919rohit/Neunix-Store/releases/download/AI/AI_Art_Studio.apk"
+  }, 
+  {
+  "name": "AI QUIZ",
+  "package": "com.neunix.aiquiz",
+  "version": "1.0",
+  "versionCode": 1,
+  "category": "AI",
+  "description": "AI Quiz App – Learn Smarter, Not Harder\nAI Quiz App is a smart learning companion designed to help students and learners test their understanding of any topic using AI-generated quizzes. Simply enter a topic or syllabus, choose the difficulty level, and the app instantly creates a structured quiz tailored to your learning needs.\nBuilt with a clean, distraction-free interface, the app focuses on clarity, stability, and learning efficiency—no unnecessary clutter, no overwhelming animations, and no confusing navigation.\n✨ Key Features\n🤖 AI-Generated Quizzes\nEnter any topic or syllabus\nAI generates high-quality multiple-choice questions\nEach question includes clear explanations for better understanding\n🎯 Controlled & Reliable Learning\nMaximum 12–15 questions per quiz for stability and accuracy\nPrevents overload and long AI responses\nEnsures fast and reliable quiz generation\n🧠 Learning-Focused Design\nClean, professional UI\nNo zooming, no accidental scrolling\nProper spacing for easy reading and interaction\nOptimized for mobile screens\n📊 Smart Results & Feedback\nDisplays:\nTotal questions\nCorrect answers\nAccuracy percentage\nDetailed review of each question with explanations\nMotivational quotes to encourage continuous learning\n🔐 Safe & User-Friendly\nRequired topic/syllabus validation\nPrevents invalid or excessive quiz requests\nStylish inline error messages (no annoying alerts)\n🎓 Who Is This App For?\nStudents preparing for exams\nLearners exploring new topics\nSelf-study enthusiasts\nAnyone who wants quick, structured knowledge checks\n🚀 Why Choose AI Quiz App?\n✔ Fast & stable AI responses\n✔ Clear explanations, not just answers\n✔ Minimal but modern UI\n✔ Learning-first experience\n✔ No distractions, no gimmicks\n🧩 How It Works\nEnter a topic or syllabus\nChoose difficulty & number of questions\nAI generates your quiz\nAnswer questions with instant feedback\nReview results and explanations\nLearn, improve, repeat",
+  "icon": "https://github.com/19919rohit/Neunix-Store/releases/download/Education/icon.png",
+  "screenshots": [
+    "https://github.com/19919rohit/Neunix-Store/releases/download/Education/screenshot1.png",
+    "https://github.com/19919rohit/Neunix-Store/releases/download/Education/screenshot2.png",
+    "https://github.com/19919rohit/Neunix-Store/releases/download/Education/screenshot3.png",
+    "https://github.com/19919rohit/Neunix-Store/releases/download/Education/screenshot4.jpg"
+  ],
+  "apk": "https://github.com/19919rohit/Neunix-Store/releases/download/Education/AIQuiz.apk"
   }
 ]
