@@ -8,7 +8,7 @@ It provides a space where small developers and new ideas can be shared, tested, 
 ## 🌱 Platform Vision
 
 Neunix Store is built for:
-- Beginner developers exploring Android app distribution
+- For beginner and indie developers looking to share and experiment with apps
 - Small utilities, tools, and niche applications
 - Experimental and concept apps
 - Community-oriented projects and indie releases
