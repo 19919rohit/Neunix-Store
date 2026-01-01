@@ -1,4 +1,4 @@
-# Neunix Store
+# Neunix Store Where Small Apps Spark Big Ideas! 
 
 Neunix Store is an independent Android app distribution platform focused on community-driven, experimental, and early-stage applications.  
 It provides a space where small developers and new ideas can be shared, tested, and discovered without the pressure of large commercial marketplaces.
