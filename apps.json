@@ -1,12 +1,30 @@
 [
   {
+  "name": "Obscura",
+  "package": "com.neunix.obscura",
+  "developer": "Neunix Studios",
+  "developer_email": "neunixstudios@gmail.com",
+  "version": "1.0",
+  "versionCode": 1,
+  "category": "Tools",
+  "description": "Obscura\\nMulti-Language Code Obfuscation Tool\\n\\nWhat is Code Obfuscation?\\nCode obfuscation is a technique that transforms human-readable source code into a version that is intentionally difficult to understand while remaining fully functional. Its primary purpose is deterrence, not encryption — making it harder for others to analyze, copy, modify, or reverse-engineer your application logic.\\n\\nHow Obscura Works\\nObscura converts source code into encoded representations and embeds a lightweight decoder inside the output. At runtime, your code behaves identically to the original while remaining protected. No external dependencies are required.\\n\\nSupported Languages\\nHTML (HTML + CSS + JS in one file)\\nBash\\nPython\\nJavaScript (separate file)\\n\\nCommon Use Cases\\nProtect proprietary logic in apps or scripts\\nShare demos safely without revealing full source code\\nEducational exploration of obfuscation techniques\\nDiscourage direct reuse of code\\n\\nEthical Use\\nObscura is intended for educational and defensive purposes only. Users must ensure they have proper authorization before obfuscating code that they do not own.",
+  "icon": "https://github.com/19919rohit/Neunix-Store/releases/download/Tools/icon.png",
+  "screenshots": [
+    "https://github.com/19919rohit/Neunix-Store/releases/download/Tools/Screenshot1.jpg",
+    "https://github.com/19919rohit/Neunix-Store/releases/download/Tools/Screenshot2.jpg",
+    "https://github.com/19919rohit/Neunix-Store/releases/download/Tools/Screenshot3.jpg",
+    "https://github.com/19919rohit/Neunix-Store/releases/download/Tools/Screenshot4.jpg"
+  ],
+  "apk": "https://github.com/19919rohit/Neunix-Store/releases/download/Tools/Obscura.apk"
+  }, 
+  {
     "name": "AI Art Studio",
     "package": "com.aiartstudio.neunix.app",
     "version": "1.1",
     "versionCode": 2,
     "category": "AI",
     "developer": "Neunix Studios", 
-    "developer_email": "kotochrohit@gmail.com", 
+    "developer_email": "neunixstudios@gmail.com", 
     "description": "AI Art Studio – Create stunning AI images and explore your creativity.",
     "icon": "https://github.com/19919rohit/Neunix-Store/releases/download/AI/icon.png",
     "screenshots": [
@@ -18,7 +36,7 @@
   "name": "AI QUIZ",
   "package": "com.neunix.aiquiz",
   "developer": "Neunix Studios", 
-  "developer_email": "kotochrohit@gmail.com",
+  "developer_email": "neunixstudios@gmail.com",
   "version": "1.0",
   "versionCode": 1,
   "category": "AI",
