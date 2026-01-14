@@ -1,0 +1,3 @@
+com.neunix.obscura,Obscura
+com.neunix.aiquiz,AI Quiz
+com.neunix.aiartstudio.app,AI Art Studio
